@@ -1,0 +1,13 @@
+# os.path.exists() --> Checks if folder is present or not.
+
+# os.makedirs() --> Creates new folder.
+
+# os.listdir() --> Lists all folders and files.
+
+# os.path.splitext() --> Checks the extension of the file.
+
+# .lower() is used to convert in albhabets in lower case as pythonis case sensitive language.
+
+# os.path.isfile() --> Check if it is file or a folder or whatever basically it checks thing whether it is file or not.
+
+# os.path.isdir() --> Check if it is file or a folder or whatever basically it checks thing whether it is folder or not.
